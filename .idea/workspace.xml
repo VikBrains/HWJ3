@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0340b0f-4640-4785-8c6a-d5e0389c9f1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HWJ3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NoteMini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Parsers.java" afterDir="false" />
+    <list default="true" id="b0340b0f-4640-4785-8c6a-d5e0389c9f1a" name="Changes" comment="HWException_1.5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +20,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -43,7 +43,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "branchForPR",
     "last_opened_file_path": "C:/IntelliJIDEA/HWJ3",
     "onboarding.tips.debug.path": "C:/IntelliJIDEA/HWJ3/src/Main.java"
   }
@@ -79,6 +80,28 @@
       <option name="presentableId" value="Default" />
       <updated>1705352600644</updated>
     </task>
+    <task id="LOCAL-00001" summary="HWException_1.4">
+      <option name="closed" value="true" />
+      <created>1705438113517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705438113518</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HWException_1.5">
+      <option name="closed" value="true" />
+      <created>1705440281651</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705440281651</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HWException_1.4" />
+    <MESSAGE value="HWException_1.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="HWException_1.5" />
   </component>
 </project>
